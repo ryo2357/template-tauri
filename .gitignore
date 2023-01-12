@@ -25,3 +25,6 @@ dist-ssr
 
 # 追加項目
 !.vscode/setting.json
+src-tauri/log
+src-tauri/config
+
